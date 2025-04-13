@@ -38,7 +38,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 
-## 📊GitHub Analytics:
+##3 📊GitHub Analytics:
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shibilkhan999&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -53,7 +53,7 @@
 
 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shibilkhan999&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🐍 Contribution Snake Animation 
