@@ -38,14 +38,13 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 
-### GitHub Analytics:
+## 📊GitHub Analytics:
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shibilkhan999&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
     
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-   
-</div>
 
 
 
@@ -53,16 +52,16 @@
 
 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=shibilkhan999&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shibilkhan999&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shibilkhan999&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shibilkhan999&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shibilkhan999&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="148" alt="Shibilkhan999's GitHub stats" />
+### 🐍 Contribution Snake Animation 
+
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
