@@ -1,5 +1,4 @@
-
-![github-header-image (3)](https://github.com/user-attachments/assets/e4f3c59a-92f5-411a-b07c-cb7f21d851a0)
+![github-header-image (4)](https://github.com/user-attachments/assets/f4fef802-210d-4103-bbc6-00a9ca8e0b7f)
 <h1 align="center">Hi 👋, I'm Shibil khan</h1>
 
 
