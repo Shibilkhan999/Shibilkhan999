@@ -1,6 +1,6 @@
 ![github-header-image (4)](https://github.com/user-attachments/assets/f4fef802-210d-4103-bbc6-00a9ca8e0b7f)
 <h1 align="center">Hi 👋, I'm Shibil khan</h1>
-<img src="![github-header-image (7)](https://github.com/user-attachments/assets/68a5ccbf-f1d6-4b68-86fa-5683eb2ddd64)" alt="" />
+<img src="![github-header-image (7)]" alt="" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibilkhan999&label=Profile%20views&color=0e75b6&style=flat" alt="shibilkhan999" /> </p>
