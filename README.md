@@ -44,8 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <br clear="both">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   
 </div>
 
 
@@ -55,18 +54,15 @@
 
 
 # 📊 GitHub Stats:
-![align="center"](https://github-readme-stats.vercel.app/api?username=shibilkhan999&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=shibilkhan999&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shibilkhan999&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shibilkhan999&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shibilkhan999&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shibilkhan999&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=shibilkhan999&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api?username=Shibilkhan999&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="148" alt="Shibilkhan999's GitHub stats" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
