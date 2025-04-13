@@ -32,8 +32,7 @@
 
 <br clear="both">
 
-<img src="![ppp](https://github.com/user-attachments/assets/8b1f42c7-3516-490b-88f9-ff0c20779114)
-" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/ppp.gif" />
 
 ###
 
